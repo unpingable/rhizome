@@ -8,7 +8,7 @@ The pieces of the answer exist. The shape that combines them — *interior event
 
 ## The closest substrate cousin: Roomy
 
-[Roomy](https://blog.muni.town/roomy-deep-dive/) is an ATProto + Automerge group chat / community thing. Its own writeup describes it as "similar in scope to Discord," using ATProto for social discovery and Automerge for peer-to-peer / local-first sync. It already has public group spaces with channels and categories.
+[Roomy](https://github.com/muni-town/roomy) is an ATProto + Automerge group chat / community thing. Its own writeup describes it as "similar in scope to Discord," using ATProto for social discovery and Automerge for peer-to-peer / local-first sync. It already has public group spaces with channels and categories.
 
 Architecturally it is doing the right kind of parasitism: chat data lives in the browser and on users' PDSes, syncs through Automerge snapshots, and uses lightweight coordinator/router services rather than a giant AppView ingesting the full firehose. That is aligned with "don't build another full platform if you can parasitize identity and storage."
 

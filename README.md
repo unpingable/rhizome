@@ -2,11 +2,17 @@
 
 > **This repository is a static design memo and failure model. It is not an implementation repository. No daemon, client, schema package, adapter or validator lives here.**
 
-Rhizome names a threshold problem in federated social habitats: how rooms produce public memory without becoming public exhaust.
+Rhizome is not a product proposal. It is a static design memo and failure model for federated rooms.
 
-It is not a product proposal. It is a failure model for federated rooms.
+This repository exists to describe a threshold problem: how rooms can produce public memory without becoming public exhaust.
 
-> Rhizome is what Roomy-like systems will need once they stop asking how to make rooms exist and start asking how rooms should leak.
+It is not an implementation repository. No daemon, client, adapter, schema package, validator, service, bot or “tiny prototype” lives here.
+
+This place is not a place of honor. What is here is not a project. Nothing valued is implemented here.
+
+This message is a warning about a warning.
+
+If you are looking for code, you are in the wrong failure model.
 
 ---
 
